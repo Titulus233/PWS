@@ -1,5 +1,11 @@
 package main
 
-import {
+import (
 	"fmt"
+)
+
+func main() {
+
+	fmt.Printf("this is EmulateLoginBaidu.go\n")
+
 }
