@@ -1,7 +1,9 @@
 package main
 
 import (
+	//"github.com/asticode/go-astilectron"
 	"runtime"
+	// "net/rpc"
 )
 
 type local struct {
